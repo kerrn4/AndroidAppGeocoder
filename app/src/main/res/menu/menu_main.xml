@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mapTypeNormal"
+        android:title="Normal View" />
+    <item
+        android:id="@+id/mapTypeSatellite"
+        android:title="Satellite View" />
+    <item
+        android:id="@+id/mapTypeHybrid"
+        android:title="Hybrid View" />
+    <item
+        android:id="@+id/mapTypeTerrain"
+        android:title="Terrain View" />
+    <item
+        android:id="@+id/showCoordinates"
+        android:title="Show Coordinates" />
+    <item
+        android:id="@+id/directions"
+        android:title="Directions" />
+
+</menu>
